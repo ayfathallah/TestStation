@@ -1,0 +1,7 @@
+Afin d'exécuter l'application, je vous propose 2 manières:    
+   - Avec un jar runnable (export runnable jar) :
+
+java -jar <racine>\\station.jar <racine>\\CandidateInputExample.txt  <racine>\\CandidateOutPutExample.txt
+
+   - Pour exécuter localement, il suffit d'ignorer les arguments main (les commenter) et décommenter les lignes en dur :
+
